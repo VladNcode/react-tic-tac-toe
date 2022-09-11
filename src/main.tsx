@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Board from './components/Board/Board';
+import Board from './components/Board';
 
 import './index.css';
 
